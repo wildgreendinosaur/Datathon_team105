@@ -11,3 +11,6 @@ pip install scikit-learn==1.2.2
 and restart your file.
 
 # To import the data, please add a folder named "data" and have your data file inside
+
+## Please Run all the code in the file 
+## After that, please run the last part for hidden data
